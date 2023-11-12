@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 30px;
+    margin-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.logo{
+    background-color: gray;
+    height: 50px;
+    display: flex;
+    align-items: center;
+}
+
+pre{
+font-family: Arial;
+font-weight: bold;
+}
+
+.sec-box{
+display: flex;
+justify-content: space-between;
+}
+
+.head-banner{
+    width: 60%;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.center{
+    display: flex;
+    justify-content: space-between;
+}
+
+.body-area{
+    height: 550px;
+    width: 60%;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer{
+    margin-top: 20px;
+    background-color: gray;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
